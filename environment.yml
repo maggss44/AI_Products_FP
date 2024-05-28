@@ -11,8 +11,7 @@ dependencies:
   - jupyter
   - pip
   - pip:
-      - openai==0.28
+      - openai
       - pinecone-client
       - nemoguardrails
       - datasets
-
